@@ -1,4 +1,4 @@
-#👋 Hi, I’m **Arjun R**
+# Hi, I’m **Arjun R** 👋
 - - - - - - - - - - - - 
 - 👀 I’m interested in :
 > `Cyber Security`
