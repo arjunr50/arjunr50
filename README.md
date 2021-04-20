@@ -1,7 +1,9 @@
-👋 Hi, I’m #Arjun R
+#👋 Hi, I’m **Arjun R**
 - - - - - - - - - - - - 
-- 👀 I’m interested in Cyber Security, Web Development etc...
-- 🌱 I’m currently learning NodeJS
+- 👀 I’m interested in :
+> `Cyber Security`
+> `Web Development`
+- 🌱 I’m currently learning `NodeJS`
 - 💞️ I’m looking to collaborate on web projects
 <!-- Actual text -->
 
