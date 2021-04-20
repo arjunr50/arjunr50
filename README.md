@@ -15,7 +15,8 @@ You can find me on [![LinkedIn][1.1]][2].
 [2]: https://www.linkedin.com/in/arjun-r--
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=arjunr50)
+<p align="center">![Github stats](https://github-readme-stats.vercel.app/api?username=arjunr50)
+</p>
 <!---
 arjunr50/arjunr50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
