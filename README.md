@@ -5,7 +5,7 @@
 - 👀 I’m interested in :
 > `Cyber Security`
 > `Web Development`
-- 🌱 I’m currently learning `NodeJS`
+- 🌱 I’m currently learning `Angular`
 - 💞️ I’m looking to collaborate on web projects
 <!-- Actual text -->
 
