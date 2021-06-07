@@ -13,7 +13,6 @@ You can find me on <a href="https://www.linkedin.com/in/arjun-r--"><img src="htt
 - - - - - - - - - - - -
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunr50&layout=compact)
 - - - - - - - - - - - -
-- - - - - - - - - - - -
 ![Github stats](https://github-readme-stats.vercel.app/api?username=arjunr50&theme=midnight-purple_icons=true)
 - - - - - - - - - - - -
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arjunr50&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
