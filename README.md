@@ -9,13 +9,10 @@
 - 💞️ I’m looking to collaborate on web projects
 <!-- Actual text -->
 
-You can find me on <a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+You can find me on <a href="https://www.linkedin.com/in/arjun-r--"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - - - - - - - - - - - -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunr50&layout=compact)]
 - - - - - - - - - - - -
-
-<!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/arjun-r--
 - - - - - - - - - - - -
 ![Github stats](https://github-readme-stats.vercel.app/api?username=arjunr50&theme=midnight-purple_icons=true)
 - - - - - - - - - - - -
