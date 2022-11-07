@@ -5,8 +5,7 @@
 - 👀 I’m interested in :
 > `Cyber Security`
 > `Web Development`
--I’m currently learning `Angular`
--I’m looking to collaborate on web projects
+-I’m currently learning `JAVA`
 <!-- Actual text -->
 
 You can find me on <a href="https://www.linkedin.com/in/arjun-r--" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
