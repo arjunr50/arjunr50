@@ -1,7 +1,7 @@
 # Hi, I’m **Arjun R** 👋
 - - - - - - - - - - - - 
 I am Arjun R. I'm a Computer Science Graduate seeking opportunities in Software Development. I'm interested in Web Development and cyber security.
-Want to know more about me? ![Check out my portfolio](https://www.arjunr.cf/).
+Want to know more about me? [Check out my portfolio](https://www.arjunr.cf/).
 
 <!-- ![](https://komarev.com/ghpvc/?username=arjunr50) -->
 - - - - - - - - - - - - 
