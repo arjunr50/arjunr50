@@ -5,7 +5,7 @@ Want to know more about me? [Check out my portfolio](https://www.arjunr.cf/).
 
 <!-- ![](https://komarev.com/ghpvc/?username=arjunr50) -->
 - - - - - - - - - - - - 
--I’m currently learning `JAVA` and `React`
+- I’m currently learning `JAVA` and `React`
 <!-- Actual text -->
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjunr2022@cs.ajce.in)](mailto:arjunr2022@cs.ajce.in)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arjun-r--/)](https://www.linkedin.com/in/arjun-r--/)
