@@ -18,7 +18,7 @@ Want to know more about me? [Check out my portfolio](https://www.arjunr.cf/).
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=arjunr50&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunr50&show_icons=true&locale=en&layout=compact&theme=nightowl" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunr50&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
