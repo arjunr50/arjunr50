@@ -1,20 +1,30 @@
 # Hi, I’m **Arjun R** 👋
 - - - - - - - - - - - - 
-![](https://komarev.com/ghpvc/?username=arjunr50)
-- - - - - - - - - - - - 
-- 👀 I’m interested in :
-> `Cyber Security`
-> `Web Development`
--I’m currently learning `JAVA`
-<!-- Actual text -->
+I am Arjun R. I'm a Computer Science Graduate seeking opportunities in Software Development. I'm interested in Web Development and cyber security.
+Want to know more about me? ![Check out my portfolio](https://www.arjunr.cf/).
 
-You can find me on <a href="https://www.linkedin.com/in/arjun-r--" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!-- ![](https://komarev.com/ghpvc/?username=arjunr50) -->
+- - - - - - - - - - - - 
+-I’m currently learning `JAVA` and `React`
+<!-- Actual text -->
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjunr2022@cs.ajce.in)](mailto:arjunr2022@cs.ajce.in)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arjun-r--/)](https://www.linkedin.com/in/arjun-r--/)
 - - - - - - - - - - - -
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunr50&layout=compact)
+[![Arjun's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=arjunr50&theme=xcode)](https://github.com/arjunr50)
 - - - - - - - - - - - -
-![Github stats](https://github-readme-stats.vercel.app/api?username=arjunr50&theme=midnight-purple_icons=true)
-- - - - - - - - - - - -
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arjunr50&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+## 📈 Stats
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=arjunr50&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunr50&show_icons=true&locale=en&layout=compact&theme=nightowl" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunr50&theme=tokyonight" />
+</p>
 - - - - - - - - - - - -
 
 <!---
