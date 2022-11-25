@@ -60,6 +60,9 @@ Want to know more about me? [Check out my portfolio](https://www.arjunr.cf/).
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunr50&theme=tokyonight" />
 </p>
 
+### MyBadges
+[![arjunr50's Holopin board](https://holopin.io/api/user/board?user=arjunr50)](https://www.holopin.io/@arjunr50)
+
 <!---
 arjunr50/arjunr50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
