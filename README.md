@@ -1,11 +1,11 @@
 # Hi, I’m **Arjun R** 👋
 - - - - - - - - - - - - 
-I am Arjun R. I'm a Computer Science Graduate seeking opportunities in Software Development. I'm interested in Web Development and cyber security.
+I am Arjun R. I'm a Flutter dev. I'm interested in building cross platform apps.
 Want to know more about me? [Check out my portfolio](https://www.arjunr.cf/).
 
 <!-- ![](https://komarev.com/ghpvc/?username=arjunr50) -->
 - - - - - - - - - - - - 
-- I’m currently working on `JAVA` and `React`
+- I’m currently working on `Dart`
 <!-- Actual text -->
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjunr2022@cs.ajce.in)](mailto:arjunr2022@cs.ajce.in)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arjun-r--/)](https://www.linkedin.com/in/arjun-r--/)
