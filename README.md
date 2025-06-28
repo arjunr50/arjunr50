@@ -1,7 +1,7 @@
 # Hi, I’m **Arjun R** 👋
 - - - - - - - - - - - - 
 I am Arjun R. I'm a Flutter dev. I'm interested in building cross platform apps.
-Want to know more about me? [Check out my portfolio](https://www.arjunr.cf/).
+Want to know more about me? [Check out my portfolio](https://arjunr50.github.io/).
 
 <!-- ![](https://komarev.com/ghpvc/?username=arjunr50) -->
 - - - - - - - - - - - - 
