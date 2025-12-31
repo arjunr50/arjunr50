@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Arjun Rao",
+    "specialization": "Cardiologist",
+    "experience": 14,
+    "rating": 4.7,
+    "tokenFee": 30,
+    "available": true,
+    "about": "Expert in interventional cardiology with extensive experience in treating complex heart conditions.",
+    "image": "https://raw.githubusercontent.com/arjunr50/arjunr50/refs/heads/main/portfolio_assets/projects/quick_doc/1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Neha Sharma",
+    "specialization": "Dermatologist",
+    "experience": 9,
+    "rating": 4.5,
+    "tokenFee": 50,
+    "available": true,
+    "about": "Specializes in skin, hair, and cosmetic dermatology with a patient-first approach.",
+    "image": "https://raw.githubusercontent.com/arjunr50/arjunr50/refs/heads/main/portfolio_assets/projects/quick_doc/2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Rohan Mehta",
+    "specialization": "Orthopedic Surgeon",
+    "experience": 11,
+    "rating": 4.6,
+    "tokenFee": 50,
+    "available": false,
+    "about": "Focused on joint replacement and sports injury management using minimally invasive techniques.",
+    "image": "https://raw.githubusercontent.com/arjunr50/arjunr50/refs/heads/main/portfolio_assets/projects/quick_doc/3.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Dr. Ananya Iyer",
+    "specialization": "Gynecologist",
+    "experience": 13,
+    "rating": 4.8,
+    "tokenFee": 20,
+    "available": true,
+    "about": "Experienced gynecologist providing comprehensive women’s healthcare and maternity services.",
+    "image": "https://raw.githubusercontent.com/arjunr50/arjunr50/refs/heads/main/portfolio_assets/projects/quick_doc/4.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Dr. Karan Singh",
+    "specialization": "Neurologist",
+    "experience": 15,
+    "rating": 4.4,
+    "tokenFee": 30,
+    "available": true,
+    "about": "Specialist in neurological disorders including migraines, epilepsy, and stroke management.",
+    "image": "https://raw.githubusercontent.com/arjunr50/arjunr50/refs/heads/main/portfolio_assets/projects/quick_doc/5.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Dr. Prakash Verma",
+    "specialization": "Pediatrician",
+    "experience": 8,
+    "rating": 4.6,
+    "tokenFee": 30,
+    "available": true,
+    "about": "Dedicated pediatrician focused on child growth, vaccination, and preventive healthcare.",
+    "image": "https://raw.githubusercontent.com/arjunr50/arjunr50/refs/heads/main/portfolio_assets/projects/quick_doc/6.jpg"
+  }
+]
